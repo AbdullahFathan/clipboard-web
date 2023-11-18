@@ -1,3 +1,5 @@
+import Access from "./components/Access";
+import Feature from "./components/Feature";
 import Hero from "./components/Hero";
 import Snippets from "./components/Snippets";
 
@@ -6,6 +8,8 @@ const App = () => {
     <main>
       <Hero />
       <Snippets />
+      <Feature />
+      <Access />
     </main>
   );
 };

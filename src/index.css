@@ -15,7 +15,7 @@ body {
 }
 
 .section-contaier {
-  @apply max-w-6xl mx-auto text-center;
+  @apply max-w-6xl mx-auto text-center px-10;
 }
 
 .heading3 {

@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <section id="hero" className="section-contaier mb-40 px-10 pt-16">
+    <section id="hero" className="section-contaier mb-40 pt-16">
       <img src="/images/logo.svg" alt="logo" className="mx-auto my-16" />
       <h3 className="heading3">A history of everything you copy</h3>
       <p className=" max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue">
